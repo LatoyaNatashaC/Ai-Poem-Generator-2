@@ -12,3 +12,25 @@ body {
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
   border-radius: 16px;
 }
+form {
+  padding: 30px;
+  display: flex;
+}
+.search-form-input {
+  background-color: #fafafa;
+  border: none;
+  width: 80%;
+  padding: 15px;
+  font-size: 16px;
+  line-height: 15px;
+  border-radius: 50px;
+}
+.submit-button {
+  background-color: #bdabf3;
+  color: white;
+  margin-left: 10px;
+  padding: 15px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 50px;
+}

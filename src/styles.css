@@ -1,5 +1,14 @@
 body {
   text-align: center;
-
-  background-color: #f9f7fe;
+  background-color: #fafafa;
+}
+.container {
+  margin: 120px auto;
+  max-width: 800px;
+  background-image: url("https://images.squarespace-cdn.com/content/v1/56bf55504c2f85a60a9b9fe5/1456362861375-B3ABTH337NGBFYQBUCUZ/image-asset.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px;
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+  border-radius: 16px;
 }

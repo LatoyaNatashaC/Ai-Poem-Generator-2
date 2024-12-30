@@ -5,7 +5,7 @@ body {
 .container {
   margin: 120px auto;
   max-width: 800px;
-  background-image: url("https://images.squarespace-cdn.com/content/v1/56bf55504c2f85a60a9b9fe5/1456362861375-B3ABTH337NGBFYQBUCUZ/image-asset.jpeg");
+  background-image: url("https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6QCYLKU7T4I6VIW5SB3RXVDDFY.jpg&w=1440");
   background-repeat: no-repeat;
   background-size: cover;
   padding: 100px;
@@ -26,7 +26,7 @@ form {
   border-radius: 50px;
 }
 .submit-button {
-  background-color: #bdabf3;
+  background-color: #b32824;
   color: white;
   margin-left: 10px;
   padding: 15px 20px;
@@ -46,4 +46,10 @@ footer {
   font-size: 16px;
   background: rgba(255, 255, 255, 0.6);
   border-radius: 5px;
+}
+h1 {
+  color: #fafafa;
+}
+a {
+  color: #b32824;
 }

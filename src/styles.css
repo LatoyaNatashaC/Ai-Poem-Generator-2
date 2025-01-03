@@ -5,7 +5,7 @@ body {
 .container {
   margin: 120px auto;
   max-width: 800px;
-  background-image: url("https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6QCYLKU7T4I6VIW5SB3RXVDDFY.jpg&w=1440");
+  background-image: url("../images/theaterstage.png");
   background-repeat: no-repeat;
   background-size: cover;
   padding: 100px;

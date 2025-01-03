@@ -1,6 +1,7 @@
 body {
   text-align: center;
   background-color: #fafafa;
+  font-family: "poppins", sans-serif;
 }
 .container {
   margin: 120px auto;
@@ -49,7 +50,41 @@ footer {
 }
 h1 {
   color: #fafafa;
+  letter-spacing: 5px;
 }
 a {
   color: #b32824;
+}
+@media (max-width: 800px) {
+  .container {
+    margin: 120px auto;
+    padding: 0px;
+  }
+  h1 {
+    font-size: 16px;
+    letter-spacing: 2px;
+    padding: 20px;
+  }
+  .search-form-input {
+    width: 80%;
+    padding: 15px;
+    font-size: 10px;
+    line-height: 15px;
+    border-radius: 50px;
+  }
+
+  .poem {
+    font-size: 10px;
+    background: rgba(255, 255, 255, 0.6);
+    padding: 0px;
+    line-height: 24px;
+    border-radius: 40px;
+  }
+  footer {
+    margin-top: 50px;
+    font-size: 10px;
+  }
+  .submit-button {
+    font-size: 10px;
+  }
 }
